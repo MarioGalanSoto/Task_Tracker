@@ -1,0 +1,14 @@
+C:\Users\Mario\Documents\projects\Task_Tracker\bin\Debug\net8.0\Task_Tracker.exe
+C:\Users\Mario\Documents\projects\Task_Tracker\bin\Debug\net8.0\Task_Tracker.deps.json
+C:\Users\Mario\Documents\projects\Task_Tracker\bin\Debug\net8.0\Task_Tracker.runtimeconfig.json
+C:\Users\Mario\Documents\projects\Task_Tracker\bin\Debug\net8.0\Task_Tracker.dll
+C:\Users\Mario\Documents\projects\Task_Tracker\bin\Debug\net8.0\Task_Tracker.pdb
+C:\Users\Mario\Documents\projects\Task_Tracker\obj\Debug\net8.0\Task_Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\projects\Task_Tracker\obj\Debug\net8.0\Task_Tracker.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\projects\Task_Tracker\obj\Debug\net8.0\Task_Tracker.AssemblyInfo.cs
+C:\Users\Mario\Documents\projects\Task_Tracker\obj\Debug\net8.0\Task_Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\projects\Task_Tracker\obj\Debug\net8.0\Task_Tracker.dll
+C:\Users\Mario\Documents\projects\Task_Tracker\obj\Debug\net8.0\refint\Task_Tracker.dll
+C:\Users\Mario\Documents\projects\Task_Tracker\obj\Debug\net8.0\Task_Tracker.pdb
+C:\Users\Mario\Documents\projects\Task_Tracker\obj\Debug\net8.0\Task_Tracker.genruntimeconfig.cache
+C:\Users\Mario\Documents\projects\Task_Tracker\obj\Debug\net8.0\ref\Task_Tracker.dll
